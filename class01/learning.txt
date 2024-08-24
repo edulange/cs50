@@ -1,0 +1,4 @@
+pra rodar no terminal:
+'make nomedoarquivo'
+'./nomedoarquivo'
+seria tipo um node nomedoarquivo.js
