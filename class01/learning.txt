@@ -2,3 +2,9 @@ pra rodar no terminal:
 'make nomedoarquivo'
 './nomedoarquivo'
 seria tipo um node nomedoarquivo.js
+o make na realidade ele transforma o código em 'machine language' e dpois roda o machine language
+
+
+control flow diagram
+
+55:50
