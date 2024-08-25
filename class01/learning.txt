@@ -7,4 +7,22 @@ o make na realidade ele transforma o código em 'machine language' e dpois roda 
 
 control flow diagram
 
-55:50
+digamos que eu fiz uma função com 3 if's pq eu ex:
+x = 1 e y = 2
+greaterThan (x, y) {
+    if ( x > y ) {
+        conole.log('x é maior q y)
+    }
+    if ( x < y ) {
+        conole.log('y é maior q x)
+    }
+    if ( x == y ) {
+        conole.log('x é igual a y)
+    }
+}
+
+eu coloquei 3 if, mas na realidade pensando em fluxogramanês, ele estaria fazendo 3 perguntas. e se eu colocasse um else if, ele pararia ali, NO ENTANTO
+eu acho que no JS se eu colocar return, ele para ali tb.
+e sim, o return resolveria isso.
+
+uma baita frase do cara é a seguinte: sempre que você estiver duplicando uma linha, é pq vc fez alguma coisa de errado xD
