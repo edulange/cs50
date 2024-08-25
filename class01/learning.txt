@@ -26,3 +26,12 @@ eu acho que no JS se eu colocar return, ele para ali tb.
 e sim, o return resolveria isso.
 
 uma baita frase do cara é a seguinte: sempre que você estiver duplicando uma linha, é pq vc fez alguma coisa de errado xD
+
+https://learnxinyminutes.com/
+Anki
+
+truncation, o que é?
+floating-point imprecision
+
+contagem dos segundos começou 1o de janeiro de 1970?
+19 janeiro de 2038
