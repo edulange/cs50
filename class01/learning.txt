@@ -35,3 +35,31 @@ floating-point imprecision
 
 contagem dos segundos começou 1o de janeiro de 1970?
 19 janeiro de 2038
+==========================
+assignment operator != equal sign
+
+int calls = 3;
+type / name / value
+
+syntactic sugar
+int calls = 4;
+calls = calls + 2;  // calls += 2; 6
+calls = calls - 2;  // calls -= 2; 2
+calls = calls * 2;  // calls *= 2; 8
+calls = calls / 2;  // calls /= 2; 2
+
+Integers = int
+The int data type is used for variables that will store integers. Integers always take up 4 bytes of memory (32 bits). ,
+This means the range of values they can store is necessary limited to 32 bits
+
+float = float = numeros reais
+Float point values always take up 4 bytes of memory (32 bits)
+
+double = 2x float
+tem 8 bytes de memoria ou seja (64 bits) 
+
+void = é um tipo mas não de data type
+funções podem ter um void return type, o que significa que eles não retornam um value;
+void da para pensar como um placeholder para 'nada'
+
+boolean = bool / true ou false
