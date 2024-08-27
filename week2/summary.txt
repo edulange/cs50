@@ -22,3 +22,9 @@ assembling
 
 linking
     vai juntar todos os # e .c que são feitos de 0 and 1s e juntar em um unico.
+
+
+/-------------------------------
+NUL = 0 
+o 0 que significa 0 bites de 'final de string'
+toda string é um array e todo array tem o length +1 no final, esse +1 seria o NUL que significa que acabou o array. 
