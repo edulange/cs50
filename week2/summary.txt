@@ -1,0 +1,24 @@
+compilor serve para pegar o source code e compilar para machine code;
+
+no caso o compiler é 'clang'
+source code (o meu codigo) -> compiler -> machine code
+
+e o que é o compiler? ele é dividido em 4 etapas:
+preprocessing
+compiling
+assembling
+linking
+
+preprocessing
+    o '#include' é parte do preprocessing
+    basicamente é o 'find and replace' as funções
+    em outras palavras o preprocessing busca todas as funções necessárias dentro do #
+
+compiling
+    assembly code
+
+assembling
+    assembling code transforma em 0 and 1s
+
+linking
+    vai juntar todos os # e .c que são feitos de 0 and 1s e juntar em um unico.

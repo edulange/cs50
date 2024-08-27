@@ -63,3 +63,5 @@ funções podem ter um void return type, o que significa que eles não retornam 
 void da para pensar como um placeholder para 'nada'
 
 boolean = bool / true ou false
+
+
